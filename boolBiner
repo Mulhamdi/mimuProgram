@@ -1,0 +1,2 @@
+a = int(input('Masukkan angka: '))
+print(a, 'adalah', bool(a))
